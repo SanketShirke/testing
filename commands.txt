@@ -3,3 +3,4 @@ git status
 git branch 
 git checkout 
 git checkout --oneline
+git remote -v
