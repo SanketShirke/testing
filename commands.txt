@@ -2,3 +2,4 @@ git init
 git status
 git branch 
 git checkout 
+git checkout --oneline
