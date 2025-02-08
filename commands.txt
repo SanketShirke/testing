@@ -4,3 +4,6 @@ git branch
 git checkout 
 git checkout --oneline
 git remote -v
+git pull
+git push 
+git fetch
